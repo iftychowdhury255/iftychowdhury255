@@ -1,4 +1,4 @@
-<img  align="center" alt="coding" width="100%" height="350" src="https://www.ameba.com.uy/wp-content/uploads/2016/03/animacion-lobo-2.gif">
+<img  align="center" alt="coding" width="100%" height="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 <h1 align="center">Hi 👋, I'm Ifty Chowdhury</h1>
 <h3 align="center">A passionate frontend & backend developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
