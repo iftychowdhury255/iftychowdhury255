@@ -9,9 +9,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Laravel-based Web Applications**
-- 🌱 I’m learning **Advanced PHP, Laravel & RESTful APIs**
-- 💬 Ask me about **Laravel, PHP, JavaScript, Vue, React**
+- 🔭 I’m currently working on **Django-based Web Applications**
+- 🌱 I’m learning **Advanced PHP, Laravel, React.js & RESTful APIs**
+- 💬 Ask me about **Python, Django, JavaScript, Php, Laravel**
 - 📫 How to reach me: **iftychowdhury10212089@gmail.com**
 
 ---
@@ -35,7 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
 </p>
