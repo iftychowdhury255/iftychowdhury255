@@ -26,14 +26,24 @@ I focus on **clean architecture**, **maintainable code**, and **scalable backend
 
 ---
 
-## 📊 Skills Overview
+## 🧩 Technical Diagram
 
 ```mermaid
-pie title Technical Proficiency
-    "C# / .NET / .NET Core" : 25
-    "ASP.NET MVC" : 20
-    "Entity Framework" : 10
-    "SQL Server" : 15
-    "Python / Django" : 10
-    "Node.js / MongoDB" : 10
-    "Tools & IDEs" : 10
+graph TD
+    A[💻 Full Stack Developer] --> B[🔹 Backend Development]
+    A --> C[🎨 Frontend Development]
+    A --> D[🗄️ Database & ORM]
+    A --> E[🧰 Tools & IDEs]
+
+    B --> B1[C# / ASP.NET MVC / .NET Core]
+    B --> B2[Node.js]
+    B --> B3[Python / Django]
+
+    C --> C1[HTML5 / CSS3 / JavaScript]
+    C --> C2[Bootstrap / Tailwind CSS]
+
+    D --> D1[SQL Server / MongoDB]
+    D --> D2[Entity Framework / LINQ / Mongoose]
+
+    E --> E1[Visual Studio 2022 / VS Code]
+    E --> E2[Git / GitHub / Postman]
