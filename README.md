@@ -29,33 +29,33 @@ I focus on **clean architecture**, **maintainable code**, and **scalable backend
 
 ```mermaid
 flowchart LR
-    subgraph A[Frontend]
-        A1[HTML5]
-        A2[CSS3]
-        A3[JavaScript (ES6+)]
-        A4[Bootstrap / Tailwind CSS]
+    subgraph FRONTEND [🎨 Frontend]
+        F1[HTML5]
+        F2[CSS3]
+        F3[JavaScript (ES6+)]
+        F4[Bootstrap / Tailwind CSS]
     end
 
-    subgraph B[Backend]
+    subgraph BACKEND [⚙️ Backend]
         B1[C# / ASP.NET MVC / .NET Core]
         B2[Node.js]
         B3[Python / Django]
     end
 
-    subgraph C[Database Layer]
-        C1[SQL Server]
-        C2[MongoDB]
-        C3[Entity Framework / LINQ / Mongoose]
+    subgraph DATABASE [🗄️ Database & ORM]
+        D1[SQL Server]
+        D2[MongoDB]
+        D3[Entity Framework / LINQ / Mongoose]
     end
 
-    subgraph D[Tools & Environment]
-        D1[Visual Studio 2022]
-        D2[VS Code]
-        D3[Git / GitHub]
-        D4[Postman]
-        D5[IIS / Docker]
+    subgraph TOOLS [🧰 Tools & Environment]
+        T1[Visual Studio 2022]
+        T2[VS Code]
+        T3[Git / GitHub]
+        T4[Postman]
+        T5[IIS / Docker]
     end
 
-    A --> B
-    B --> C
-    C --> D
+    FRONTEND --> BACKEND
+    BACKEND --> DATABASE
+    DATABASE --> TOOLS
