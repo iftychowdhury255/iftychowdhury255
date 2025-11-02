@@ -11,6 +11,12 @@ I focus on **clean architecture**, **maintainable code**, and **scalable backend
 
 ---
 
+## 📊 GitHub Contributions
+
+![Iftekher Chowdhury's Contribution Graph](image.png)
+
+---
+
 ## 🧰 Tech Stack
 
 | Category | Technologies |
@@ -25,37 +31,11 @@ I focus on **clean architecture**, **maintainable code**, and **scalable backend
 
 ---
 
-## 🧩 Technology Flow Diagram
+## 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://your-portfolio.com)
 
-```mermaid
-flowchart LR
-    subgraph FRONTEND [🎨 Frontend]
-        F1[HTML5]
-        F2[CSS3]
-        F3[JavaScript (ES6+)]
-        F4[Bootstrap / Tailwind CSS]
-    end
+---
 
-    subgraph BACKEND [⚙️ Backend]
-        B1[C# / ASP.NET MVC / .NET Core]
-        B2[Node.js]
-        B3[Python / Django]
-    end
-
-    subgraph DATABASE [🗄️ Database & ORM]
-        D1[SQL Server]
-        D2[MongoDB]
-        D3[Entity Framework / LINQ / Mongoose]
-    end
-
-    subgraph TOOLS [🧰 Tools & Environment]
-        T1[Visual Studio 2022]
-        T2[VS Code]
-        T3[Git / GitHub]
-        T4[Postman]
-        T5[IIS / Docker]
-    end
-
-    FRONTEND --> BACKEND
-    BACKEND --> DATABASE
-    DATABASE --> TOOLS
+⭐ *From [Iftekher Chowdhury](https://github.com/your-username)*
