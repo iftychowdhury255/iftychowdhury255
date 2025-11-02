@@ -21,29 +21,41 @@ I focus on **clean architecture**, **maintainable code**, and **scalable backend
 | **ORM / Frameworks** | Entity Framework, LINQ, Mongoose |
 | **Programming Languages** | C#, Python, JavaScript |
 | **Tools & IDEs** | Visual Studio 2022, Visual Studio Code, Postman, Git, GitHub |
-| **Version Control** | Git & GitHub |
 | **Deployment** | IIS, Docker (basic), Heroku (for Python projects) |
 
 ---
 
-## 🧩 Technical Diagram
+## 🧩 Technology Flow Diagram
 
 ```mermaid
-graph TD
-    A[💻 Full Stack Developer] --> B[🔹 Backend Development]
-    A --> C[🎨 Frontend Development]
-    A --> D[🗄️ Database & ORM]
-    A --> E[🧰 Tools & IDEs]
+flowchart LR
+    subgraph A[Frontend]
+        A1[HTML5]
+        A2[CSS3]
+        A3[JavaScript (ES6+)]
+        A4[Bootstrap / Tailwind CSS]
+    end
 
-    B --> B1[C# / ASP.NET MVC / .NET Core]
-    B --> B2[Node.js]
-    B --> B3[Python / Django]
+    subgraph B[Backend]
+        B1[C# / ASP.NET MVC / .NET Core]
+        B2[Node.js]
+        B3[Python / Django]
+    end
 
-    C --> C1[HTML5 / CSS3 / JavaScript]
-    C --> C2[Bootstrap / Tailwind CSS]
+    subgraph C[Database Layer]
+        C1[SQL Server]
+        C2[MongoDB]
+        C3[Entity Framework / LINQ / Mongoose]
+    end
 
-    D --> D1[SQL Server / MongoDB]
-    D --> D2[Entity Framework / LINQ / Mongoose]
+    subgraph D[Tools & Environment]
+        D1[Visual Studio 2022]
+        D2[VS Code]
+        D3[Git / GitHub]
+        D4[Postman]
+        D5[IIS / Docker]
+    end
 
-    E --> E1[Visual Studio 2022 / VS Code]
-    E --> E2[Git / GitHub / Postman]
+    A --> B
+    B --> C
+    C --> D
