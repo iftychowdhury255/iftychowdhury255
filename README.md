@@ -59,34 +59,50 @@
 
 ---
 
-<div align="center">
-  <h3>📊 Technical Proficiency (Self-Assessment)</h3>
-  <p><em>Using reliable static badges instead of dynamic images to ensure loading.</em></p>
+### 📊 Technical Proficiency (Self-Assessment)
 
-  <table>
-    <tr>
-      <td width="150px"><strong>C# / .NET</strong></td>
-      <td><img src="https://img.shields.io/badge/Skill-85%25-512bd4?style=flat-square&logo=c%23&logoColor=white" alt="85%"></td>
-    </tr>
-    <tr>
-      <td><strong>Angular</strong></td>
-      <td><img src="https://img.shields.io/badge/Skill-75%25-dd0031?style=flat-square&logo=angular&logoColor=white" alt="75%"></td>
-    </tr>
-    <tr>
-      <td><strong>JavaScript / TS</strong></td>
-      <td><img src="https://img.shields.io/badge/Skill-80%25-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="80%"></td>
-    </tr>
-    <tr>
-      <td><strong>PHP / Laravel</strong></td>
-      <td><img src="https://img.shields.io/badge/Skill-70%25-ff2d20?style=flat-square&logo=laravel&logoColor=white" alt="70%"></td>
-    </tr>
-     <tr>
-      <td><strong>Database (SQL)</strong></td>
-      <td><img src="https://img.shields.io/badge/Skill-80%25-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="80%"></td>
-    </tr>
-  </table>
-</div>
----
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117;">
+      <img src="https://skillicons.dev/icons?i=cs" width="30"/><br>
+      <strong>C# / .NET</strong><br><br>
+      <img src="https://geps.dev/progress/85?dangerColor=ff4444&warningColor=ffbb33&successColor=00C851" width="130"/><br>
+      <code>85% Proficiency</code>
+    </td>
+    <td align="center" width="33%" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117;">
+      <img src="https://skillicons.dev/icons?i=angular" width="30"/><br>
+      <strong>Angular</strong><br><br>
+      <img src="https://geps.dev/progress/75?dangerColor=ff4444&warningColor=ffbb33&successColor=00C851" width="130"/><br>
+      <code>75% Proficiency</code>
+    </td>
+    <td align="center" width="33%" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117;">
+      <img src="https://skillicons.dev/icons?i=ts" width="30"/><br>
+      <strong>JS / TS</strong><br><br>
+      <img src="https://geps.dev/progress/80?dangerColor=ff4444&warningColor=ffbb33&successColor=00C851" width="130"/><br>
+      <code>80% Proficiency</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117;">
+      <img src="https://skillicons.dev/icons?i=laravel" width="30"/><br>
+      <strong>PHP / Laravel</strong><br><br>
+      <img src="https://geps.dev/progress/70?dangerColor=ff4444&warningColor=ffbb33&successColor=00C851" width="130"/><br>
+      <code>70% Proficiency</code>
+    </td>
+    <td align="center" width="33%" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117;">
+      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="30"/><br>
+      <strong>SQL Server</strong><br><br>
+      <img src="https://geps.dev/progress/75?dangerColor=ff4444&warningColor=ffbb33&successColor=00C851" width="130"/><br>
+      <code>75% Proficiency</code>
+    </td>
+    <td align="center" width="33%" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117;">
+      <img src="https://skillicons.dev/icons?i=html,css" width="50"/><br>
+      <strong>Web Design</strong><br><br>
+      <img src="https://geps.dev/progress/90?dangerColor=ff4444&warningColor=ffbb33&successColor=00C851" width="130"/><br>
+      <code>90% Proficiency</code>
+    </td>
+  </tr>
+</table>
 
 
 ### Let's Connect
