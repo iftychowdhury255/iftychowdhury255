@@ -4,7 +4,7 @@
   <p>Focusing on Scalable Web Solutions with ASP.NET Core & Angular</p>
   
   <p align="center">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F%2F%2Fiftychowdhury255&count_bg=%230E75B6&title_bg=%23222222&icon=github.svg&icon_color=%23E7E7E7&title=Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=iftychowdhury255&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitors" />
   </p>
 </div>
 
@@ -62,10 +62,10 @@
 ### Technical Proficiency & Language Distribution
 
 <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iftychowdhury255&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftychowdhury255&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" />
 </p>
 
-> **Note:** The graph above compares the usage frequency of languages and frameworks across my GitHub repositories, helping to track my technical focus.
+> **Note:** The graph above compares the usage frequency of languages across my GitHub repositories.
 
 ---
 
