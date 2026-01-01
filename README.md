@@ -59,14 +59,18 @@
 
 ---
 
-### Technical Proficiency & Language Distribution
+### Technical Proficiency (Self-Assessment)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USER&layout=compact&theme=vision-friendly-dark" />
-</p>
+| Language / Framework | Proficiency Level |
+| :--- | :--- |
+| **C# / .NET** | ![70%](https://progress-bar.dev/85/?title=Expertise&color=512bd4) |
+| **Angular** | ![40%](https://progress-bar.dev/75/?title=Expertise&color=dd0031) |
+| **JavaScript / TS** | ![50%](https://progress-bar.dev/80/?title=Expertise&color=f7df1e) |
+| **PHP / Laravel** | ![80%](https://progress-bar.dev/70/?title=Expertise&color=ff2d20) |
+| **SQL Server** | ![85%](https://progress-bar.dev/75/?title=Expertise&color=CC2927) |
+| **HTML / CSS** | ![95%](https://progress-bar.dev/90/?title=Expertise&color=264de4) |
 
-> **Note:** The graph above compares the usage frequency of languages across my GitHub repositories.
-
+---
 ---
 
 ### Let's Connect
