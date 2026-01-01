@@ -66,20 +66,20 @@
     <td align="center" width="33%" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117;">
       <img src="https://skillicons.dev/icons?i=cs" width="30"/><br>
       <strong>C# / .NET</strong><br><br>
-      <img src="https://geps.dev/progress/85?dangerColor=ff4444&warningColor=ffbb33&successColor=00C851" width="130"/><br>
-      <code>85% Proficiency</code>
+      <img src="https://geps.dev/progress/70?dangerColor=ff4444&warningColor=ffbb33&successColor=00C851" width="130"/><br>
+      <code>70% Proficiency</code>
     </td>
     <td align="center" width="33%" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117;">
       <img src="https://skillicons.dev/icons?i=angular" width="30"/><br>
       <strong>Angular</strong><br><br>
-      <img src="https://geps.dev/progress/75?dangerColor=ff4444&warningColor=ffbb33&successColor=00C851" width="130"/><br>
-      <code>75% Proficiency</code>
+      <img src="https://geps.dev/progress/40?dangerColor=ff4444&warningColor=ffbb33&successColor=00C851" width="130"/><br>
+      <code>40% Proficiency</code>
     </td>
     <td align="center" width="33%" style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background: #0d1117;">
       <img src="https://skillicons.dev/icons?i=ts" width="30"/><br>
       <strong>JS / TS</strong><br><br>
-      <img src="https://geps.dev/progress/80?dangerColor=ff4444&warningColor=ffbb33&successColor=00C851" width="130"/><br>
-      <code>80% Proficiency</code>
+      <img src="https://geps.dev/progress/60?dangerColor=ff4444&warningColor=ffbb33&successColor=00C851" width="130"/><br>
+      <code>60% Proficiency</code>
     </td>
   </tr>
   <tr>
