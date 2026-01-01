@@ -59,19 +59,35 @@
 
 ---
 
-### Technical Proficiency (Self-Assessment)
+<div align="center">
+  <h3>📊 Technical Proficiency (Self-Assessment)</h3>
+  <p><em>Using reliable static badges instead of dynamic images to ensure loading.</em></p>
 
-| Language / Framework | Proficiency Level |
-| :--- | :--- |
-| **C# / .NET** | ![70%](https://progress-bar.dev/85/?title=Expertise&color=512bd4) |
-| **Angular** | ![40%](https://progress-bar.dev/75/?title=Expertise&color=dd0031) |
-| **JavaScript / TS** | ![50%](https://progress-bar.dev/80/?title=Expertise&color=f7df1e) |
-| **PHP / Laravel** | ![80%](https://progress-bar.dev/70/?title=Expertise&color=ff2d20) |
-| **SQL Server** | ![85%](https://progress-bar.dev/75/?title=Expertise&color=CC2927) |
-| **HTML / CSS** | ![95%](https://progress-bar.dev/90/?title=Expertise&color=264de4) |
+  <table>
+    <tr>
+      <td width="150px"><strong>C# / .NET</strong></td>
+      <td><img src="https://img.shields.io/badge/Skill-85%25-512bd4?style=flat-square&logo=c%23&logoColor=white" alt="85%"></td>
+    </tr>
+    <tr>
+      <td><strong>Angular</strong></td>
+      <td><img src="https://img.shields.io/badge/Skill-75%25-dd0031?style=flat-square&logo=angular&logoColor=white" alt="75%"></td>
+    </tr>
+    <tr>
+      <td><strong>JavaScript / TS</strong></td>
+      <td><img src="https://img.shields.io/badge/Skill-80%25-f7df1e?style=flat-square&logo=javascript&logoColor=black" alt="80%"></td>
+    </tr>
+    <tr>
+      <td><strong>PHP / Laravel</strong></td>
+      <td><img src="https://img.shields.io/badge/Skill-70%25-ff2d20?style=flat-square&logo=laravel&logoColor=white" alt="70%"></td>
+    </tr>
+     <tr>
+      <td><strong>Database (SQL)</strong></td>
+      <td><img src="https://img.shields.io/badge/Skill-80%25-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="80%"></td>
+    </tr>
+  </table>
+</div>
+---
 
----
----
 
 ### Let's Connect
 <p align="center">
