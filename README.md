@@ -62,7 +62,7 @@
 ### Technical Proficiency & Language Distribution
 
 <p align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iftychowdhury255&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8" />
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=iftychowdhury255&layout=compact&theme=vision-friendly-dark&hide_border=true" />
 </p>
 
 > **Note:** The graph above compares the usage frequency of languages across my GitHub repositories.
