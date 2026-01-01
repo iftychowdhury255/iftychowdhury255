@@ -46,7 +46,7 @@
       <code>MSSQL • MySQL • MongoDB</code><br>
       <strong>EF Core (Code First & DB First)</strong>
     </td>
-    <td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 20px; padding: 20px; background: #0d1117;">
+    <td align="center" width="50%" style="border: 1px solid #30363d; border-radius: 20px; padding: 20px; margin: 10px; background: #0d1117;">
       <img src="https://img.icons8.com/fluency/48/wrench.png" width="35"/><br>
       <h3>Tools & Environment</h3>
       <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" />
