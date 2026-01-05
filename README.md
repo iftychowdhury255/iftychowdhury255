@@ -1,5 +1,5 @@
 <div align="center">
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F750&center=true&vCenter=true&width=435&lines=Hello..+I'm+MD.IFTEKHER+CHOWDHURY;You+can+call+me+Just+(Ifty);Jr.+Web+Based+Software+Engineer)](https://git.io/typing-svg)
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F750&center=true&vCenter=true&width=435&lines=Hello..+I'm+MD.IFTEKHER+CHOWDHURY;You+can+call+me+Just+(Ifty);Jr.+Web+Based+Software+Engineer" alt="Typing SVG" /></a>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=iftychowdhury255&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitors" />
