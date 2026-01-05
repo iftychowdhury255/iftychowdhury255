@@ -9,11 +9,26 @@
 ---
 
 ### About Me
-- 🔭 **Current Focus:** Building web applications using **ASP.NET Core and Angular**.
-- 🌱 **Learning:** Deepening my knowledge in **Software Architecture and Clean Code**.
-- 💬 **Interests:** Backend Development, API Design, and Modern Frontend Frameworks.
-- 📫 **Contact:** iftychowdhury10212089@gmail.com
-
+```javascript
+{
+  "name": "MD. IFTEKHER CHOWDHURY",
+  "title": "Junior Web Software Engineer",
+  "focusAreas": [
+    "Backend Development with C# and .NET",
+    "RESTful API Design and Integration",
+    "Relational Database Design and Query Optimization",
+    "Building Maintainable and Scalable Web Applications"
+  ],
+  "currentLearning": [
+    "ASP.NET Core",
+    "Angular"
+    "Clean Architecture Principles",
+    "Real-world Software Design Patterns"
+  ],
+  "mindset": "Writing clean, readable, and maintainable code",
+  "message": "I enjoy learning by building real projects and continuously improving as a software engineer."
+}
+```
 ---
 
 ### Tech Dashboard
