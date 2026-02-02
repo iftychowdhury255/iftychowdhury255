@@ -145,13 +145,6 @@
 
 </div>
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iftychowdhury255&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=C9D1D9&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iftychowdhury255&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=C9D1D9&langs_count=8)
-
-</div>
 
 ---
 
